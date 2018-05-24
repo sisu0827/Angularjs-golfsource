@@ -98,6 +98,10 @@ cursor:pointer;
 hi,
 how are you doing? the situation here is very bad and my skype is watched.
 how was your vacation? any news to encourage me? :)
+
+I had busy days in this vacation. we've got detailed reviewing from our organization.
+it was terrible. my earning-result for 3 months was not good. I'm still getting their reviewing steps. I must earn $2~3k at least per month. then I can become a team leader. I'm sorry I've not called to your mom in this vacation. 
+I will go to sinuizhu on 8th June. if you have something to tell your family, let me know. anyway, so glad to meet you again. :)
 */
 }
 
